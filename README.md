@@ -4,7 +4,7 @@ Submitted by: Rodolfo Cuello
 
 **SherlockH** is an app that introduces information of fictional character Sherlock Holmes.
 
-Time spent: 9 hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
   </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -47,7 +47,7 @@ was not allowing me to upload an updated version of my project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Rodolfo Cuello]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
