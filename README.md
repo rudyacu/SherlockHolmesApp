@@ -30,7 +30,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <a href="https://www.loom.com/share/37b3082680ca44cbad7162f18876000b">
-    <p>07 February, 2023 - Screen-Recording-2023-02-07-at-53801-PM - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/37b3082680ca44cbad7162f18876000b-with-play.gif">
   </a>
 
