@@ -29,9 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/hkCbbWa"  ><a href="//imgur.com/a/hkCbbWa">SherlockHolmesApp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hkCbbWa"  ><a href="//imgur.com/a/hkCbbWa">SherlockHolmesApp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://www.loom.com/share/37b3082680ca44cbad7162f18876000b">
+    <p>07 February, 2023 - Screen-Recording-2023-02-07-at-53801-PM - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/37b3082680ca44cbad7162f18876000b-with-play.gif">
+  </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
